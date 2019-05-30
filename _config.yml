@@ -1,11 +1,11 @@
 # Site settings
 author: Ryan Sulapas
-title: 
+title: Commander Data
 header-img: img/home-bg.png
 email: ryansulapas@gmail.com
 copyright_name: Ryan Sulapas
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Data Science things
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  rphillip
